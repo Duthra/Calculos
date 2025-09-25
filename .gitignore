@@ -1,0 +1,70 @@
+# Extensions
+*.xcodeproj
+*.xcworkspace
+*.code-workspace
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.opensdf
+*.sdf
+*.svd
+*.VC.db
+*.VC.opendb
+*.user
+*.userprefs
+*.booproj
+*.tmp
+*.DS_Store
+*.md.backup
+
+# Unity Engine generated
+/*/Assets/AssetStoreTools
+/*/Assets/SceneDependencyCache
+/*/Assets/TypeDependencyCache
+/*/CodeCoverage
+/*/ExportedObj
+/*/Library
+/*/Logs
+/*/MemoryCaptures
+/*/Obj
+/*/Temp
+/*/UserSettings
+
+# Unity Engine plugins
+/*/PATCHWorkspace
+
+# Unreal Engine generated
+/*/Binaries
+/*/DerivedDataCache
+/*/Intermediate
+/*/Plugins/**/Binaries
+/*/Plugins/**/Intermediate
+/*/Saved
+
+# Unreal Engine development
+/*/Content/Developers/*/Local
+/*/Plugins/Developer
+/*/Plugins/OnlineSubsystemRedpointEOS/Source/ThirdParty/Tools/DevAuthTool
+
+# User generated
+.vs
+.gradle
+.vscode
+.idea
+.consulo
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+crashlytics-build.properties
+
+# Build
+/*/Build
+!/*/Build/Icons/*
+!/*/Build/*/PakBlacklist*.txt
+!/*/Build/*/Application.ico
+!/*/Build/*/Application.icns
+!/*/Build/*/Application.png
+/*/Builds
+
+# Custom
